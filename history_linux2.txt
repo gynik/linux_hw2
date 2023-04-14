@@ -1,0 +1,20 @@
+   0 mkdir /home/animals
+   1 ls /home/
+   2 mkdir /home/animals/dogs /home/animals/cats /home/animals/fish
+   3 tree /home/
+   4 touch /home/animals/dogs/pluto /home/animals/cats/garfield /home/animals/fish/nemo
+   5 touch /tmp/adam
+   6 touch /tmp/evA
+   7 mkdir /home/humans
+   8 cp tmp/adam /home/humans/
+   9 clear
+  10 ls /home/humans/
+  11 clear
+  12 tree /home/
+  13 cp /tmp/adam /home/humans/
+  14 ls /home/humans/
+  15 mv /tmp/evA /opt/eve
+  16 ls /
+  17 mv /opt/eve /home/humans/
+  18 ls /home/humans/
+  19 history > history_linux2.txt
